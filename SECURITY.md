@@ -1,6 +1,6 @@
 # Security Policy
 
-Techaro follows the [Pride Versioning scheme](https://pridever.org/).
+Techaro follows the [Semver 2.0 scheme](https://semver.org/).
 
 ## Supported Versions
 
